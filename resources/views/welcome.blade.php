@@ -8,12 +8,12 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>K-NEAREST NEIGHBOR - Bibit Cabai</title>
-    <link href="{{ asset('/css/styles.css') }}" rel="stylesheet" />
-    <link rel="stylesheet" href="{{ asset('/aos%403.0.0-beta.6/dist/aos.css') }}" />
-    <link rel="icon" type="image/x-icon" href="{{ asset('/img/porang.png') }}" />
-    <script data-search-pseudo-elements="" defer="" src="{{ asset('/ajax/libs/font-awesome/6.4.0/js/all.min.js') }}"
+    <link href="{{ asset('css/styles.css') }}" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ asset('aos%403.0.0-beta.6/dist/aos.css') }}" />
+    <link rel="icon" type="image/x-icon" href="{{ asset('img/porang.png') }}" />
+    <script data-search-pseudo-elements="" defer="" src="{{ asset('ajax/libs/font-awesome/6.4.0/js/all.min.js') }}"
         crossorigin="anonymous"></script>
-    <script src="{{ asset('/ajax/libs/feather-icons/4.29.0/feather.min.js') }}" crossorigin="anonymous"></script>
+    <script src="{{ asset('ajax/libs/feather-icons/4.29.0/feather.min.js') }}" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -89,9 +89,9 @@
             </footer>
         </div>
     </div>
-    <script src="{{ asset('/bootstrap%405.2.3/dist/js/bootstrap.bundle.min.js') }}" crossorigin="anonymous"></script>
-    <script src="{{ asset('/js/scripts.js') }}"></script>
-    <script src="{{ asset('/aos%403.0.0-beta.6/dist/aos.js') }}"></script>
+    <script src="{{ asset('bootstrap%405.2.3/dist/js/bootstrap.bundle.min.js') }}" crossorigin="anonymous"></script>
+    <script src="{{ asset('js/scripts.js') }}"></script>
+    <script src="{{ asset('aos%403.0.0-beta.6/dist/aos.js') }}"></script>
     <script>
         AOS.init({
             disable: 'mobile',
@@ -100,7 +100,7 @@
         });
     </script>
 
-    <script src="{{ asset('/js/sb-customizer.js') }}"></script>
+    <script src="{{ asset('js/sb-customizer.js') }}"></script>
 </body>
 
 </html>
